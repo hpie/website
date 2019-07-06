@@ -32,7 +32,7 @@ include('_partials/header.php'); // Includes Header Script
                     <p>
                       HIM PRODUCTIVE INSTIIUTE OF EDUCATION was established on March 2003. 
 					  The Institute of Education has evolved into a model-training center churning out quality accountants to cater to the trade & commerce sector of our economy. 
-					  At H.P.I.E, we believe in the practical and modern approach to the study of finance and accounts, wherein the application area of the commerce practices is also taken care of. 
+					  At HIM PRODUCTIVE INSTIIUTE OF EDUCATION, we believe in the practical and modern approach to the study of finance and accounts, wherein the application area of the commerce practices is also taken care of.
 					  This is our distinct advantage amongst the number of training centers that have mushroomed out of every nook & corner of the state. 
 					  We are the first Industrial Training Institute of Tally Solutions Pvt. Ltd in Shimla, Himachal Pradesh and we are also providing our services in Himachal Pradesh as the Franchisee of Tally Solutions Pvt. Ltd.
                     </p>
@@ -64,7 +64,7 @@ include('_partials/header.php'); // Includes Header Script
               </div>
               <div data-thumb="assets/img/slides/camera/img4.jpg" data-src="assets/img/slides/camera/img4.jpg">
                 <div class="camera_caption fadeFromBottom">
-                  <h2>H.P.I.E - Advance Trainings</h2>
+                  <h2>HIM PRODUCTIVE INSTIIUTE OF EDUCATION - Advance Trainings</h2>
                   <div class="hidden-phone">
                     <p>
                       HPIE is an authorized training center for Center of Development of Advanced Computing (C-DAC). 
